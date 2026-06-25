@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ridho Putra 👋
 
-<!--
-**ridhouta/ridhouta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst transitioning from International Relations into data.
+Currently building skills in SQL, Python, and data visualization.
 
-Here are some ideas to get you started:
+## 🛠 Skills in Progress
+- SQL (PostgreSQL) — Intermediate
+- Python (pandas) — Beginner
+- Power BI — Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Project
+- [Mental Health of International Students](https://github.com/ridhouta/data-analyst-portfolio/tree/main/01-mental-health-sql)
+  — SQL analysis on depression and social connectedness scores by length of stay
+
+## 📚 Currently Learning
+DataCamp Data Analyst Track · Targeting Junior Data Analyst roles in Russia and remote
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/ridhoputra)
